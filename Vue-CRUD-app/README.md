@@ -1,7 +1,9 @@
 # customer-crud
-```Author: Tinashe Matembo
-   Date: 01/18/22
-   Desc: A CRUD application to manage customers and companies
+```
+Author: Tinashe Matembo
+Date: 01/18/22
+Desc: A CRUD application to manage customers and companies
+
 ```
 
 ## Project setup
