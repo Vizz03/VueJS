@@ -1,8 +1,19 @@
 # customer-crud
+```Author: Tinashe Matembo
+   Date: 01/18/22
+   Desc: A CRUD application to manage customers and companies
+```
 
 ## Project setup
 ```
+To Install:
+
 npm install
+
+To run mock DB:
+
+json-server --watch db.json
+
 ```
 
 ### Compiles and hot-reloads for development
